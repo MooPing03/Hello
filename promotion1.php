@@ -1,4 +1,3 @@
-// NU 19 รอพวกเราอยู่~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -48,7 +47,7 @@
         <a href="#">
           <div class="carousel-caption text-start">
             <h1>โปรโมชั่น</h1>
-            <p class="opacity-75">เอาไว้ใส่โปรโมชั่น</p>
+            <p class="opacity-75">เอาไว้ใส่โปรโมชั่น</p> #โปรโมชั่นนานๆมาที
           </div>
         </div>
       </div>
@@ -63,7 +62,7 @@
         </div>
       </div>
       <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="50%" height="50%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
         <div class="container">
         <a href="#">
           <div class="carousel-caption">
