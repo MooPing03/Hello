@@ -59,6 +59,14 @@
             <h1>เอาไว้ใส่โปรโมชั่น</h1>
             <p>เอาไว้ใส่โปรโมชั่น</p>
           </div>
+        <div class="carousel-item">
+      <a href="#">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
+        <div class="container">
+          <div class="carousel-caption">
+            <h1>เอาไว้ใส่โปรโมชั่น</h1>
+            <p>เอาไว้ใส่โปรโมชั่น</p>
+          </div>
         </div>
       </div>
       <div class="carousel-item">
